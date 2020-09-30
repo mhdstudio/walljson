@@ -1,0 +1,103 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openid":"ca-app-pub-3940256099942544/1033173712",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "interval": 1,
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "version_app":1,
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+        "inmobi_inter":1476878485960,
+        "inmobi_banner":1473189489298,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ],
+    
+    "More":
+  [
+  
+],
+
+
+"Categories": [
+    {
+      "id": 1,
+      "nama_cat": "APA ITU KARTU PRAKERJA",
+      "gambar": "file:///android_asset/gambar/1.jpg"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "CARA DAFTAR KARTU PRAKERJA",
+      "gambar": "file:///android_asset/gambar/2.jpg"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "PENDAFTARAN DAN TEST KARTU PRAKERJA",
+      "gambar": "file:///android_asset/gambar/3.jpg"
+
+    },
+    {
+      "id": 4,
+      "nama_cat": "TEST MOTIVASI DAN KEMAMPUAN DASAR",
+      "gambar": "file:///android_asset/gambar/4.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "id_guide":"001",
+      "nama_cat":"APA ITU KARTU PRAKERJA",
+      "judul":"Pengertian Kartu prakerja dan fungsinya",
+      "image":"file:///android_asset/gambar/1.jpg",
+      "link":"file:///android_asset/guide_1.html",
+      "deskripsi":"Kartu Prakerja adalah salah satu dari program pemerintah untuk mendukung tumbuh kembang perekonomian Indonesia. Hanya saja, krisis dan pandemi corona COVID-19 yang melumpuhkan banyak kegiatan sosial dan kegiatan ekonomi yang terkena imbas yang lebih parah lagi, membuat Presiden Joko Widodo akhirnya mengambil tindakan dan inisiatif."
+    },
+    {
+      "id":2,
+      "id_guide":"002",
+      "nama_cat":"CARA DAFTAR KARTU PRAKERJA",
+      "judul":"CARA DAFTAR KARTU PRAKERJA",
+      "image":"file:///android_asset/gambar/2.jpg",
+      "link":"file:///android_asset/guide_2.html",
+      "deskripsi":"Sebelum mendaftar kita harus perlu tau dulu syarat dan ketentuan untuk mendaftar kartu prakerja ini"
+    },
+
+    {
+      "id":3,
+      "id_guide":"003",
+      "nama_cat":"PENDAFTARAN DAN TEST KARTU PRAKERJA",
+      "judul":"PENDAFTARAN DAN TEST KARTU PRAKERJA",
+      "image":"file:///android_asset/gambar/3.jpg",
+      "link":"file:///android_asset/guide_3.html",
+      "deskripsi":"Setelah pemohon berhasil membuat akun, langkah selanjutnya adalah mendaftarkan diri mereka untuk masuk ke dalam program- program Kartu Prakerja dengan mengikuti cara di bawah ini"
+    },
+    {
+      "id":4,
+      "id_guide":"004",
+      "nama_cat":"TEST MOTIVASI DAN KEMAMPUAN DASAR ",
+      "judul":"TEST MOTIVASI DAN KEMAMPUAN DASAR ",
+      "image":"file:///android_asset/gambar/4.jpg",
+      "link":"file:///android_asset/guide_4.html",
+      "deskripsi":"TEST MOTIVASI DAN KEMAMPUAN DASAR kartu prakerja"
+    }
+
+  ]
+}
