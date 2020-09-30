@@ -10,7 +10,7 @@
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
         "link_update": "https://play.google.com/store/apps/details?id=com.mhdstudio.caradaftarkartuprakerja",
         "interval": 3,
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"2",
         "startappid":"12345678",
         "version_app":1,
         "fan_inter":"YOUR_PLACEMENT_ID",
