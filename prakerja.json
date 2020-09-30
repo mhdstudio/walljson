@@ -3,12 +3,12 @@
     "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=",
+        "link": "https://play.google.com/store/apps/details?id=com.mhdstudio.caradaftarkartuprakerja",
         "interid": "ca-app-pub-3940256099942544/1033173712",
         "nativeid": "ca-app-pub-3940256099942544/2247696110",
         "openid":"ca-app-pub-3940256099942544/1033173712",
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
-        "link_update": "https://www.google.com/",
+        "link_update": "https://play.google.com/store/apps/details?id=com.mhdstudio.caradaftarkartuprakerja",
         "interval": 3,
         "pengaturan_iklan":"2",
         "startappid":"12345678",
